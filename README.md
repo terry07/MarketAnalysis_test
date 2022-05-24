@@ -21,7 +21,7 @@ All the technical files are based on Python 3.x and are presented through Jupyte
 
 
 ## Requirements
-* [Python 3.7.4](https://www.python.org/downloads/release/python-3912/)
+* [Python 3.9.12](https://www.python.org/downloads/release/python-3912/)
 * [plotly](https://github.com/plotly/plotly.py) - a library for interactive plots
 * [seaborn](https://github.com/mwaskom/seaborn) - a library for statistical/scientific plots
 
